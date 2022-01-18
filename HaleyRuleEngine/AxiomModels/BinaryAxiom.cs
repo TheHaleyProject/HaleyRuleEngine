@@ -14,7 +14,7 @@ namespace Haley.Models
         {
             StringBuilder strbldr = new StringBuilder();
             strbldr.Append("The input ");
-            strbldr.Append($@"{ @operator.getDescription()} {value}.)");
+            strbldr.Append($@"{ @operator.GetDescription()} {value}.)");
             return strbldr.ToString();
         }
 

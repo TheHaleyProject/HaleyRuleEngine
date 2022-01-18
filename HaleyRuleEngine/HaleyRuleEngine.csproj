@@ -5,7 +5,7 @@
     <AssemblyName>Haley.RuleEngine</AssemblyName>
     <RootNamespace>Haley.RuleEngine</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.8</Version>
+    <Version>1.1.0</Version>
     <Authors>Lingam</Authors>
     <Company>TheHaleyProject</Company>
     <Product>Haley Rule Engine</Product>
@@ -16,7 +16,7 @@
     <RepositoryUrl>https://github.com/rmsmech/HaleyProject</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>RuleEngine, ExpressionEngine, Haley,</PackageTags>
-    <PackageReleaseNotes>Changed Haley Logo</PackageReleaseNotes>
+    <PackageReleaseNotes>Camelcase to pascal case</PackageReleaseNotes>
     <PackageIcon>Haley.png</PackageIcon>
     <AssemblyVersion>1.0.7.0</AssemblyVersion>
     <FileVersion>1.0.7.0</FileVersion>
