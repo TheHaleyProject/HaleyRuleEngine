@@ -5,7 +5,7 @@
     <AssemblyName>Haley.RuleEngine</AssemblyName>
     <RootNamespace>Haley.RuleEngine</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <Authors>Lingam</Authors>
     <Company>TheHaleyProject</Company>
     <Product>Haley Rule Engine</Product>
@@ -49,7 +49,7 @@
     </When>
     <Otherwise>
      <ItemGroup>
-       <PackageReference Include="Haley.Extensions" Version="2.0.2" />
+       <PackageReference Include="Haley.Extensions" Version="2.1.2" />
 	 </ItemGroup>
     </Otherwise>
 </Choose>  
